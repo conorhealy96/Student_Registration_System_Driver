@@ -45,7 +45,7 @@
         <dependency>
 	    <groupId>com.github.conorhealy96</groupId>
 	    <artifactId>Student_Registration_System</artifactId>
-	    <version>-SNAPSHOT</version>
+	    <version>1.0-SNAPSHOT</version>
 	</dependency>
     </dependencies>
     <repositories>
